@@ -19,5 +19,3 @@ git commit: actualizar cambios al repositorio
 git push: cargar contenido del repositorio local al remoto
 
 git merge: unir uno o mas ramas
-
-git add: guardar los cambios.
